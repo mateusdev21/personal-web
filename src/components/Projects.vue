@@ -18,7 +18,7 @@ const projects = [
     {
         name: "Personal Website",
         description: "This is my personal website for the purpose of displaying my professional experience and what projects I have worked on. I built this website using the Vue JS 3 Frontend Framework and Tailwind as the UI Framework.",
-        screenshot: "/src/assets/personal-web.png",
+        screenshot: "@/assets/personal-web.png",
         link: "#",
     },
     {
